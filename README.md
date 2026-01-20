@@ -4,31 +4,45 @@ Each **Day folder** includes C++ programs practiced on that day.
 ---
 
 ## Daily Progress
+Day 01     
+Basics of C++, data types, size of data types, simple input/output programs     
 
-- **Day 01**:  
-  Basics of C++, data types, size of data types, simple input/output programs
+Day 02     
+Conditional statements    
+Age greater than 18    
+Positive / negative / non-positive number checks    
 
-- **Day 02**:  
-  Conditional statements  
-  - Age greater than 18  
-  - Positive / negative / non-positive number checks  
+Day 03   
+If–else ladder programs    
+Child / Growth / Adult age classification   
 
-- **Day 03**:  
-  If–else ladder programs  
-  - Child / Growth / Adult age classification  
+Day 04    
+Switch case programs    
+Vowel or consonant check   
+Day of the week program    
+Switch case demo    
 
-- **Day 04**:  
-  Switch case programs  
-  - Vowel or consonant check  
-  - Day of the week program  
-  - Switch case demo  
+Day 05     
+Looping statements   
+For loop (0–4, 9–0)    
+Do-while loop (1–5, reverse numbers)     
 
-- **Day 05**:  
-  Looping statements  
-  - For loop (0–4, 9–0)  
-  - Do-while loop (1–5, reverse numbers) 
+Day 06     
+Loops with break & continue    
+Star & number patterns    
+break.cpp, continue.cpp     
+numbertrianglepattern.cpp, squarestarpattern.cpp         
+trianglestarpattern.cpp, upsidedowntrianglepattern.cpp                         
 
-_(Updating daily as I learn more)_
+Day 07                
+Functions and void functions                     
+Add numbers (add(function).cpp)                
+Even & Odd check (even&odd(function).cpp)            
+Print numbers (printnum.cpp)            
+Square pattern (square(function).cpp)              
+Void function examples (void.cpp)   
+
+_(Updating daily as I learn more)_       
 
 ---
 
