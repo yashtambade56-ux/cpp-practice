@@ -3,7 +3,7 @@ Each **Day folder** includes C++ programs practiced on that day.
 
 ---
 
-## 📅 Daily Progress
+## Daily Progress
 
 - **Day 01**:  
   Basics of C++, data types, size of data types, simple input/output programs
@@ -28,11 +28,11 @@ Each **Day folder** includes C++ programs practiced on that day.
   - For loop (0–4, 9–0)  
   - Do-while loop (1–5, reverse numbers) 
 
-_(Updating daily as I learn more)_ ✅
+_(Updating daily as I learn more)_
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Language: **C++**
 - Compiler: **g++**
@@ -41,7 +41,7 @@ _(Updating daily as I learn more)_ ✅
 
 ---
 
-## 🎯 Goal
+## Goal
 
 - Build strong C++ fundamentals  
 - Practice daily and stay consistent  
@@ -49,7 +49,7 @@ _(Updating daily as I learn more)_ ✅
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Each program is written for **learning purposes**
 - Code is kept **simple and beginner-friendly**
@@ -57,4 +57,4 @@ _(Updating daily as I learn more)_ ✅
 
 ---
 
-⭐ If you find this helpful, feel free to star the repository!
+If you find this helpful, feel free to star the repository!
