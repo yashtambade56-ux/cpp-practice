@@ -42,6 +42,12 @@ Print numbers (printnum.cpp)
 Square pattern (square(function).cpp)              
 Void function examples (void.cpp)   
 
+Day 8:      
+C++ Functions (No Arguments)    
+Programs based on C++ functions without arguments    
+Uses basic function concepts     
+Simple logic for beginners     
+
 _(Updating daily as I learn more)_       
 
 ---
