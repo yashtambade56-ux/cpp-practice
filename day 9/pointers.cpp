@@ -11,6 +11,13 @@ int main() {
     cout << "Value of var: " << var << endl;
 
     // print address of var
-    cout << "Address of var: " << &var << endl;
+    cout << "Address of var: = " << &var << endl;
 
-    // print 
+    // print pointer point var
+    cout << "Pointer point var: " << point_var << endl;
+
+    // print the content of the address point_var pointes 2
+    cout << "contant of the address point_var pointes: " << *point_var << endl;
+
+    return 0;
+}
