@@ -104,6 +104,19 @@ Single & two-dimensional arrays (dma.cpp, dmaEx1.cpp, twoDMA.cpp)
 Single inheritance (singleInh.cpp)                                     
 Person example (person_singleInh.cpp)                         
 
+Day 17                
+Constructors & Outside Class Functions             
+Student class with constructor (student.cpp)             
+Outside class function example (Outside_Class.cpp)              
+Add two numbers using objects (addNumberObjects.cpp)                  
+
+Day 18                            
+Constructors, Destructors & Inheritance                        
+Default & parameterized constructors (constructor_demo.cpp)              
+Destructor demonstration (destructor.cpp)             
+Single inheritance example (inheritance.cpp)                  
+
+
 
 _(Updating daily as I learn more)_       
 
