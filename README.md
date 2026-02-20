@@ -42,11 +42,68 @@ Print numbers (printnum.cpp)
 Square pattern (square(function).cpp)              
 Void function examples (void.cpp)   
 
-Day 8:      
+Day 8                        
 C++ Functions (No Arguments)    
 Programs based on C++ functions without arguments    
 Uses basic function concepts     
 Simple logic for beginners     
+
+Day 09                      
+Call by Value                         
+Swap numbers (swap.cpp)                 
+Character change demo (charChange.cpp)              
+Pointers & addresses (pointer1.cpp, pointer2.cpp)                
+               
+Day 10                     
+Call by Reference                            
+Increment numbers (increment.cpp)
+Square numbers (square_ref.cpp)                          
+Pointer manipulation exercises (pointer_ref.cpp)                     
+                      
+Day 11            
+Classes & Objects                                     
+Print number (printNumber.cpp)                 
+Add numbers (addOOP.cpp)                                    
+Square of number (squareOOP.cpp)                                                    
+Even & Odd check (evenOddOOP.cpp)                      
+ATM example (atm.cpp)                        
+                       
+Day 12                     
+Advanced Classes & OOP                 
+Student class (student.cpp)                      
+Rectangle area & perimeter (rectangle.cpp)              
+Calculator (calculator.cpp)                  
+Employee salary details (employee.cpp)                   
+BankAccount class (bankAccount.cpp)              
+             
+Day 13             
+Array Programs                                      
+Largest element (largestElement.cpp)            
+Smallest element (smallestElement.cpp)                            
+Sum in array (sumArray.cpp)                     
+User input array (userInputArray.cpp)              
+                  
+Day 14       
+Array Exercises                      
+Even numbers (find_even_no_in_array.cpp)                  
+Odd numbers (find_odd_no_in_array.cpp)                 
+Search number (search_num_in_array.cpp)                 
+Slot array (slot_array.cpp)            
+                         
+Day 15                                                          
+Recursion & Strings                 
+Factorial (factorial_recursion.cpp)                  
+Fibonacci series (fibonacci_recursion.cpp)              
+Fibonacci normal (fibonacci.cpp)          
+C-style string (c_style_string.cpp)                 
+String class usage (string_class_input.cpp, using_string_class.cpp)                
+                 
+Day 16                 
+Dynamic Memory Allocation (DMA)                         
+Single & two-dimensional arrays (dma.cpp, dmaEx1.cpp, twoDMA.cpp)                          
+Single inheritance (singleInh.cpp)                                     
+Person example (person_singleInh.cpp)                         
+
 
 _(Updating daily as I learn more)_       
 
