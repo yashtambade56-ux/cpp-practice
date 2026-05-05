@@ -146,8 +146,63 @@ File handling in C++
 Create file (create_file.cpp)            
 Read file (read_file.cpp)            
 Write into file (write_file.cpp)            
-                   
-_(Updating daily as I learn more)_       
+               
+---
+
+Assignment's                                    
+              
+Assignment 1. If and If-Else Questions                              
+-Basic conditional statements                          
+-Decision-making programs                        
+-Nested if-else logic                    
+                         
+Assignment 2. Function Exercises                       
+-Function creation and usage                      
+-Parameter passing                           
+-Return values                   
+                       
+Assignment 3. Loop and Switch                 
+-for, while, do-while loops                      
+-switch case statements                          
+-Pattern-based problems                  
+                             
+Assignment 4. Function Exercises (Advanced)               
+-Recursion basics                 
+-Function overloading                
+-Modular programming                                                 
+                      
+Assignment 5. Call by Value & Call by Reference                                     
+-Difference between both methods                                       
+-Memory behavior                          
+-Practical examples              
+                         
+Assignment 6. Pointer                               
+-Pointer basics                                            
+-Address & dereferencing                                       
+-Pointer with arrays and functions                         
+                                                      
+Assignment 7. Single Inheritance                             
+-Object-Oriented Programming (OOP) basics                  
+-Class and object                       
+-Inheritance implementation                  
+                       
+Assignment 8. Virtual Functions Exercise                           
+-Runtime polymorphism                       
+-Virtual keyword usage                      
+-Function overriding                         
+
+---
+
+Mini Project                                                                                       
+Simple Login System                    
+A basic console-based login and registration system built using C++.
+This project allows users to register and login securely using file storage and password hashing.
+ 
+---
+
+Final Project                                             
+Library Management System                                                   
+This project is a simple Library Management System developed using C++. It demonstrates the use of Object Oriented Programming concepts such as classes, objects, and functions.
 
 ---
 
